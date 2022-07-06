@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.https": {
+    "enable": true, //set it true to enable the feature.
+    "cert": "C:\\Users\\Anas Buhisi\\OneDrive\\Desktop\\vrijeeme-vjezba\\noviKljuc", //full path of the certificate
+    "key": "C:\\Users\\Anas Buhisi\\OneDrive\\Desktop\\vrijeeme-vjezba\noviKljuc.pub", //full path of the private key
+    }
+    }
